@@ -96,4 +96,4 @@ The following considerations are important to consider when using this code:
 
 - **Article Title Changed:** In case an article is renamed, or updated in a wrong way, it may lead to data inconsistencies. This is possible since Wikipedia relies on it's users for the data.
 
-
+*Note: Used ChatGPT to help with some text in research implications*
