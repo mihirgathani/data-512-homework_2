@@ -76,11 +76,6 @@ The analysis yields six data tables, showcasing:
 These tables are embedded in the ["Wikipedia_Politician_Bias_Analysis.ipynb"](./Wikipedia_Politician_Bias_Analysis.ipynb) file. 
 
 ## Research Implications
-Sure! Here’s a paragraph that reflects on what you have learned, your findings, any surprising elements, and theories about the existence of biases, formatted appropriately for the “Research Implications” section of your README:
-
----
-
-## Research Implications
 Through this assignment, I have gained a deeper understanding of the complexities surrounding data biases, especially in the context of information sourced from platforms like Wikipedia. One of the key findings was the unexpected absence of expected biases toward developed nations regarding high-quality article representation. Instead, the data revealed significant selection biases, particularly the absence of contributions from notable countries such as the United States, Canada, and Australia. This discrepancy surprised me, as I initially assumed that higher-quality articles would correlate directly with these countries' well-established educational and technological infrastructures. Moreover, this experience underscored the critical need to recognize inherent biases within source data, which can arise from demographics, cultural influences, and literacy levels. These factors not only affect the availability of quality information but also highlight the importance of documentation and reproducibility in data science projects.
 
 **What might your results suggest about (English) Wikipedia as a data source?**  
@@ -91,7 +86,6 @@ Through this assignment, I have gained a deeper understanding of the complexitie
 
 **How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?**  
 - To enhance the dataset and address identified biases, researchers could integrate additional demographic and socio-economic data from international organizations like the World Bank or United Nations. This supplementary information would provide a richer context for understanding the factors influencing article creation and quality. Furthermore, incorporating qualitative insights through surveys or interviews with Wikipedia contributors from various backgrounds could illuminate their motivations and challenges, fostering a more nuanced understanding of the content landscape.
-
 
 ## Potential Considerations: 
 The following considerations are important to consider when using this code:
